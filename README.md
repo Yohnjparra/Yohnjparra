@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yohn Jairo Parra Bautista</h1>
 <h3 align="center">Professor and Researcher in Data Science applied to health disparities, Machine Language, Ethics and Biomedical Data</h3>
 
-- 🔭 I’m currently working on [Alzheimer's Disease Data](https://adni.loni.usc.edu/)
+- 🔭 I’m currently working on Hallucinations analysis in generative AI model
 
 - 🌱 I’m currently learning **Pre-trained language models, Biomedical research with ML and AI**
 
